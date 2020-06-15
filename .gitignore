@@ -1,0 +1,9 @@
+*.sw[a-z]
+*~
+.vscode
+*/cmake-build-debug
+*/.idea
+.idea
+cmake-build-debug
+build
+__init__.py
